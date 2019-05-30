@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Forms</title>
+</head>
+
+<!-- action - where the form sends data to -->
+<!-- method - what HTTP method (get/post) -->
+<body>
+	<h1>Register</h1>
+	<!-- <form>
+		<label>
+		 Username:
+		 <input type="text" name="username" placeholder="username">
+		</label>
+		
+		<label>
+		 Password:
+		 <input type="password" name="password" placeholder="password">
+		</label>
+		
+		<input type="submit">
+	</form> -->
+
+	<!-- <form>
+		<label for="username">
+		 Email:
+		 <input id="username" type="email" placeholder="username" required>
+		</label>
+		
+		<label for="username">
+		 Password:
+		 <input id="username" type="password" placeholder="password" required>
+		</label>
+		
+		<input type="submit">
+	</form> -->
+
+	<!-- <form>
+	 <label for="dogs">Dogs: </label>
+	 <input name="petChoice" id="dogs" type="radio" value="dogs">
+
+	 <label for="cats">Cats: </label>
+	 <input name="petChoice" id="cats" type="radio" value="cats">
+
+	 <p>Favorite color</p>
+	 <select name="color">
+	 	<option value="red">Red</option>
+	 	<option value="blue">Blue</option>
+	 	<option value="yellow">Yellow</option>
+	 </select>
+
+	 <textarea name="paragraph" rows="10" cols="10"></textarea>
+
+	 <button>Go!</button>
+	</form> -->
+
+	<form action="" method="POST">
+	 <label for="firstName">First Name: </label>
+	 <input id="firstName" type="text" required>
+
+	 <label for="lastName">Last Name: </label>
+	 <input id="lastName" type="text" required><br>
+
+	 <label for="male">Male </label>
+	 <input id="male" name="sex" type="radio">
+	 <label for="female">Female </label>
+	 <input id="female" name="sex" type="radio">
+	 <label for="other">Other </label>
+	 <input id="other" name="sex" type="radio"><br>
+
+	 <label for="email">Email: </label>
+	 <input id="email" type="email" placeholder="email" required>
+	 <label for="password">Password: </label>
+	 <input id="password" type="password" placeholder="password" pattern=".{5,10}" required><br>
+
+	 <label>Birthday: </label>
+	 <select name="Month">
+	  <option value="0" selected disabled>Month</option>
+	  <option value="january">January</option>
+	  <option value="february">February</option>
+	  <option value="march">March</option>
+	 </select>
+	 <select name="Day">
+	  <option value="0" selected disabled>Day</option>
+	  <option value="1">1</option>
+	  <option value="2">2</option>
+	  <option value="3">3</option>
+	 </select>
+	 <select name="Year">
+	  <option value="0" selected disabled>Year</option>
+	  <option value="2019">2019</option>
+	  <option value="2018">2018</option>
+	  <option value="2017">2017</option>
+	 </select><br>
+
+	 <label for="conditions">I agree to the conditions</label>
+	 <input id="conditions" type="checkbox" name="conditions">
+	 <button>Submit</button>
+
+	</form>
+
+
+	
+</body>
+</html>

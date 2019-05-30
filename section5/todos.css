@@ -1,0 +1,13 @@
+li {
+	border: 2px solid red;
+}
+
+#third-li {
+	border: 2px solid purple;
+	background: yellow;
+}
+
+.todo-li {
+	text-decoration: line-through;
+}
+

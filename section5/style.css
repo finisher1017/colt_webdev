@@ -1,0 +1,18 @@
+li {
+	color: orange;
+}
+
+h1 {
+	color: rgba(240,0,100, 0.2);
+
+	border: 5px solid purple;
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://www.tempaperdesigns.com/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/w/o/woodgrain_texturedpewter_wo079_rgb_swatch_1.jpg);*/
+}

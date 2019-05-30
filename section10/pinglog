@@ -1,0 +1,39 @@
+PING 8.8.8.8 (8.8.8.8): 56 data bytes
+64 bytes from 8.8.8.8: icmp_seq=0 ttl=122 time=35.485 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=122 time=36.596 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=122 time=36.161 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=122 time=35.759 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=122 time=35.972 ms
+64 bytes from 8.8.8.8: icmp_seq=5 ttl=122 time=36.537 ms
+64 bytes from 8.8.8.8: icmp_seq=6 ttl=122 time=36.005 ms
+64 bytes from 8.8.8.8: icmp_seq=7 ttl=122 time=36.180 ms
+64 bytes from 8.8.8.8: icmp_seq=8 ttl=122 time=36.049 ms
+64 bytes from 8.8.8.8: icmp_seq=9 ttl=122 time=35.899 ms
+64 bytes from 8.8.8.8: icmp_seq=10 ttl=122 time=36.303 ms
+64 bytes from 8.8.8.8: icmp_seq=11 ttl=122 time=35.072 ms
+64 bytes from 8.8.8.8: icmp_seq=12 ttl=122 time=36.084 ms
+64 bytes from 8.8.8.8: icmp_seq=13 ttl=122 time=36.175 ms
+64 bytes from 8.8.8.8: icmp_seq=14 ttl=122 time=36.206 ms
+64 bytes from 8.8.8.8: icmp_seq=15 ttl=122 time=36.049 ms
+64 bytes from 8.8.8.8: icmp_seq=16 ttl=122 time=36.492 ms
+64 bytes from 8.8.8.8: icmp_seq=17 ttl=122 time=36.148 ms
+64 bytes from 8.8.8.8: icmp_seq=18 ttl=122 time=36.097 ms
+64 bytes from 8.8.8.8: icmp_seq=19 ttl=122 time=35.970 ms
+64 bytes from 8.8.8.8: icmp_seq=20 ttl=122 time=35.940 ms
+64 bytes from 8.8.8.8: icmp_seq=21 ttl=122 time=36.310 ms
+64 bytes from 8.8.8.8: icmp_seq=22 ttl=122 time=36.005 ms
+64 bytes from 8.8.8.8: icmp_seq=23 ttl=122 time=36.124 ms
+64 bytes from 8.8.8.8: icmp_seq=24 ttl=122 time=35.973 ms
+64 bytes from 8.8.8.8: icmp_seq=25 ttl=122 time=35.972 ms
+64 bytes from 8.8.8.8: icmp_seq=26 ttl=122 time=35.979 ms
+64 bytes from 8.8.8.8: icmp_seq=27 ttl=122 time=35.779 ms
+64 bytes from 8.8.8.8: icmp_seq=28 ttl=122 time=35.347 ms
+64 bytes from 8.8.8.8: icmp_seq=29 ttl=122 time=35.736 ms
+64 bytes from 8.8.8.8: icmp_seq=30 ttl=122 time=35.786 ms
+64 bytes from 8.8.8.8: icmp_seq=31 ttl=122 time=36.362 ms
+64 bytes from 8.8.8.8: icmp_seq=32 ttl=122 time=151.184 ms
+64 bytes from 8.8.8.8: icmp_seq=33 ttl=122 time=360.260 ms
+
+--- 8.8.8.8 ping statistics ---
+34 packets transmitted, 34 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 35.072/48.941/360.260/57.579 ms
